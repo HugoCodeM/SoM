@@ -1,4 +1,4 @@
-public class PracticeProblems {
+public class PracticeProblems101 {
     // Practice Problem 1
     public static int countOccurrences(int[] arr, int n) {
         int count = 0;  
